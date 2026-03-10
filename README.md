@@ -23,7 +23,7 @@ The data was collected from **146 active vape users** via a structured Google Fo
 
 ```
 ├── Vaping_Workplace_Productivity.ipynb   # Main analysis notebook
-├── Vape__Analisis_de_datos.csv           # Raw survey data (146 responses)
+├── survey.csv           # Raw survey data (146 responses)
 └── README.md
 ```
 
